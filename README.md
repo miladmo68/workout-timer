@@ -1,69 +1,59 @@
-<h1 align="center">⏱ Workout-Timer</h1>
+<div align="center">
+
+# ⏱️ Workout Timer
+
+An interval workout timer with configurable sets, speed and breaks.
+
+<a href="https://miladmo68.github.io/workout-timer/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/workout-timer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/workout-timer](https://miladmo68.github.io/workout-timer/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/workout-timer/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/workout-timer"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Workout Timer screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A React + Vite based scaffold for a workout interval timer — created with fast HMR support and code quality tools. Primed for enhancements like configurable intervals, stopwatch/countdown modes, audio cues, and UI feedback for workouts.
-</p>
+## ✨ Features
 
----
+- Choose a workout type
+- Adjust sets, speed and break length
+- Sound cue on each step
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img width="2880" height="1582" alt="workout-timer" src="https://github.com/user-attachments/assets/077f9310-baed-40be-adec-75cded75783b" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-orange?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature                 | Description |
-|-------------------------|-------------|
-| **Interval Setup**      | Foundation for configuring workout intervals such as work/rest durations. |
-| **Countdown & Stopwatch Modes** | Placeholder ready for adding dual timing modes. |
-| **Audio/Visual Cues**   | Ready for enhancements like sound alerts or visual feedback. |
-| **Fast Dev Workflow**   | Built with Vite and React for hot reload and instant feedback. |
-| **Clean Codebase**      | ESLint and Prettier pre-configured to maintain code consistency. |
-| **Highly Extensible**   | Great starting point for added features like presets, timers, or mobile-responsive UI. |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/workout-timer.git
 cd workout-timer
-
-# 2) Install dependencies
 npm install
+npm start
+```
 
-# 3) Run development server
-npm run dev
+## 📁 Project Structure
 
-# 4) Build for production
-npm run build
+```
+workout-timer/
+├── public/
+├── src/
+└── package.json
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
